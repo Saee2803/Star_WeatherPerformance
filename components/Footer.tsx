@@ -4,16 +4,16 @@ const Footer = () => {
             <div className="mx-auto max-w-screen-xl px-3 py-2.5">
                 <p className="text-center text-sm md:text-base">
                     Made with ❤️ by{' '}
-                    <a target="_blank" className="text-primary-500 hover:underline" href="https://github.com/devxprite">
-                        @devxprite
+                    <a target="_blank" className="text-primary-500 hover:underline" href="https://github.com/siddhesh940">
+                        @siddhesh940
                     </a>
                     . Source is on{' '}
                     <a
                         target="_blank"
                         className="text-primary-500 hover:underline"
-                        href="https://github.com/devXprite/star-weather"
+                        href="https://github.com/siddhesh940/Star_WeatherPerformance"
                     >
-                        Github
+                        GitHub
                     </a>
                 </p>
             </div>
