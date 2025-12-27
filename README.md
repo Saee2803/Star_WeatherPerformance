@@ -18,7 +18,8 @@
 
 ## Screenshot
 
-![Screenshot 1](public/banner.png)
+![Screenshot 1](Demo.png)
+![Screenshot 1](Demo2.png)
 
 ## Getting Started
 
